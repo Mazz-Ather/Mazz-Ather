@@ -31,21 +31,22 @@ Here are some of the best websites that I've created. Click on the images to vis
 <table>
   <tr>
     <td style="padding: 10px;">
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Award Winning Website</a><br>
-      <a href="https://anime-website-ecru.vercel.app/">
-        <img src="https://github.com/user-attachments/assets/6024a035-93c7-473f-bbb6-49fd1d4fffe8" alt="award winning wesbite website" width="300"/>
+      <a href="">Award Winning Website</a><br>
+      <a href="https://get-social-agency.vercel.app/">
+        <img src="https://github.com/user-attachments/assets/997c1142-77b4-4dda-b19c-a30a1675f9a9
+" alt="award winning wesbite website" width="300"/>
       </a>
     </td>
     <td style="padding: 10px;">
-      <a href="https://one-piece-xi-six.vercel.app/">One Piece</a><br>
-      <a href="https://one-piece-xi-six.vercel.app//">
-        <img src="https://github.com/user-attachments/assets/51b7c9d4-1661-49ae-9777-7292a96262af" alt="one piece" width="300"/>
+      <a href="">MY Personal Portfolio</a><br>
+      <a href="">
+        <img src="" alt="" width="300"/>
       </a>
     </td>
     <td style="padding: 10px;">
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753">Wooble Hero Section</a><br>
-      <a href="https://wooble-hero-section.vercel.app/">
-        <img src="https://github.com/user-attachments/assets/e038022b-b1e3-4d68-a7a2-536cfce37e69" alt="wooble hero section" width="300"/>
+      <a href="[[https://www.linkedin.com/feed/update/urn:li:activity:7253052473496522753](https://mazz-personal-portfolio.vercel.app/)](https://www.linkedin.com/posts/maaz-ather-a8252b291_nextjs-nextjsdevelopment-nextjsframework-activity-7260279964673994752-u_s-?utm_source=share&utm_medium=member_desktop)">Portfolio Website by using Next.js</a><br>
+      <a href="[https://wooble-hero-section.vercel.app/](https://mazz-personal-portfolio.vercel.app/)">
+        <img src="https://github.com/user-attachments/assets/21d5f9a7-42b2-4f61-a624-fd73288b49a5" alt="portfolio" width="300"/>
       </a>
     </td>
   </tr>
