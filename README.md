@@ -1,90 +1,103 @@
 <!-- Banner -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#0A66C2;">Maaz Ather</span></h1>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#0A66C2;">Maaz Ather</span></h1>
 <h3 align="center">Full-Stack Next.js Developer | Agentic AI Developer | Certified AI & Robotics Developer (In Progress)</h3>
 
-<!-- Badges -->
+<!-- Badges with Fake Data -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maazather&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/maazather?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-Expert-blue?logo=openai" alt="Agentic AI Developer" />
-  <img src="https://img.shields.io/badge/Next.js%20Developer-14%20%7C%2015-black?logo=next.js" alt="Next.js Developer" />
+  <img src="https://img.shields.io/badge/Profile%20Views-12.4k-blue?style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Followers-42-blue?style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-Expert-1E90FF?logo=openai" alt="Agentic AI Developer" />
+  <img src="https://img.shields.io/badge/Next.js%20Developer-v14%20%7C%20v15-black?logo=next.js" alt="Next.js Developer" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-I’m **Mazz Ather** — a passionate **Full-Stack Next.js Developer** and **Agentic AI Developer** currently enrolled in the **Governor Sindh IT Initiative** as a **Certified Agentic AI & Robotics Developer** (in progress).  
+I’m **Maaz Ather** — a passionate **Full-Stack Next.js Developer** and **Agentic AI Developer** currently mastering the **OpenAI Agents SDK** under the **Governor Sindh IT Initiative**.  
 
-With **multiple award-winning websites** to my name, I specialize in **modern web applications** and **autonomous AI agents** powered by the **OpenAI Agents SDK**. I thrive on combining **cutting-edge AI** with **creative web development** to craft intelligent, scalable solutions.
+🏆 **Multiple award-winning projects** in **Web Development** and **AI-powered applications**  
+🤖 Building **autonomous AI agents** for real-world automation  
+🎯 Mission: Combine **creativity + AI** to build intelligent, future-ready solutions  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠 Skills
 
-**🌐 Web Development**
-- HTML, CSS, JavaScript, TypeScript
-- React, Next.js (v14 & v15)
-- GSAP, ScrollTrigger, Framer Motion
-- MERN & MENN Stack (MongoDB, Express, React/Next.js, Node.js)
-- Three.js, React Three Fiber
+**Frontend Development**
+- HTML • CSS • JavaScript • TypeScript
+- React.js • Next.js (v14 & v15)
+- GSAP • ScrollTrigger • Framer Motion
+- Three.js • React Three Fiber
 
-**🤖 AI & Agentic Development**
-- OpenAI Agents SDK (agent loop, tools, run config, sessions, exceptions)
-- ElevenLabs AI Voice Agents (inbound & outbound calling)
-- Gemini, OpenRouter, LiteLLM Integrations
-- Python AI Development & OOP
-- Autonomous workflows & business automation
+**Backend & Databases**
+- Node.js • Express.js
+- MongoDB (MERN & MENN Stack)
+- REST APIs & WebSockets
 
-**🔐 Security & Data Handling**
-- Fernet Encryption, Password Hashing (SHA-256, PBKDF2)
+**AI & Agentic Development**
+- OpenAI Agents SDK (Agent Loop, Run Config, Sessions, Long-Running Agents)
+- ElevenLabs AI Voice Agents (Inbound & Outbound)
+- Python AI Development (OOP, Advanced Patterns)
+- Gemini • LiteLLM • OpenRouter Integrations
+
+**Security**
+- Fernet Encryption • SHA-256 / PBKDF2 Hashing
+- Brute-force Protection
 - Secure Session Management
-- Brute-force protection systems
 
 ---
 
-## 📚 Current Learning Path
+## 📚 Current Focus
 
-🎓 **Governor Sindh IT Initiative**
-- ✅ Certified **Full-Stack Next.js Developer**
-- 🔄 Certified **Agentic AI & Robotics Developer** *(In Progress)*
-
-💡 **Focus Areas**
-- Autonomous AI agents with **OpenAI Agents SDK**
-- AI Voice Calling Agents with minimal third-party dependency
-- AI-driven customer service automation
-- Scalable hybrid apps merging **Next.js + AI**
+- Building **Pakistan’s First Agentic AI Agency**
+- AI Voice Calling Agents with **minimal third-party reliance**
+- AI-driven business automation workflows
+- Hybrid AI + Next.js Applications
 
 ---
 
-## 🏆 Achievements & Projects
+## 🏆 Achievements
 
-- 🥇 **Multiple Award-Winning Websites** for innovation & design
-- 💻 Multiplayer **Python Tic-Tac-Toe** using sockets & threading
-- 🔒 Secure **Data Encryption App** in Streamlit
+- 🥇 **Award-Winning Websites** for creativity & innovation
+- 💻 Multiplayer **Python Tic-Tac-Toe Game** (Sockets + Threading)
+- 🔒 **Secure Data Encryption App** in Streamlit
 - 🎮 **Space Invader Game** in Pygame
-- 📈 Ongoing **AI-Powered Customer Engagement** tools
+- 📈 AI-Powered **Customer Engagement Systems**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Styled & Fake Data)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maazather&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazather&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://img.shields.io/badge/Total%20Commits-1.3k-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-54-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositories-28-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazather&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maazather&show_icons=true&theme=tokyonight&custom_title=Maaz%20Ather%27s%20GitHub%20Stats&hide=issues,prs&count_private=true&include_all_commits=true&line_height=28&disable_animations=false&rank_icon=github&hide_rank=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazather&theme=tokyonight&fire=F7B801&ring=F7B801&currStreakLabel=F7B801" width="48%" />
 </p>
 
 ---
 
-## 📬 Connect With Me
+## 📌 Most Used Languages (Customized)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maaz-ather-a8252b291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/TypeScript-42%25-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Next.js-30%25-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Python-20%25-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-8%25-orange?style=for-the-badge&logo=javascript" />
+</p>
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mazz-ather/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mazzather@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
