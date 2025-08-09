@@ -1,28 +1,95 @@
-# 👋 Welcome to My GitHub Profile!
+<!-- Banner -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#0A66C2;">Maaz Ather</span></h1>
+<h3 align="center">Full-Stack Next.js Developer | Agentic AI Developer | Certified AI & Robotics Developer (In Progress)</h3>
 
-I’m an enthusiastic web developer with a solid foundation in HTML, CSS, JavaScript, Typescript, React and Next.js. Currently honing my skills at Governor Sindh  IT initiative Karachi, I am passionate about crafting engaging web experiences and continuously exploring new technologies.I’m also expanding my expertise by mastering the full potential of Agentic AI, including its design, deployment, and practical applications across various industries.
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maazather&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/maazather?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-Expert-blue?logo=openai" alt="Agentic AI Developer" />
+  <img src="https://img.shields.io/badge/Next.js%20Developer-14%20%7C%2015-black?logo=next.js" alt="Next.js Developer" />
+</p>
 
+---
 
-## 🚀 Skills
+## 🚀 About Me
 
-- **Front-End:** HTML, CSS, JavaScript, Typescript , React & Next.js
-- **Animations:** GSAP, ScrollTrigger
-- **Backend Development:** MERN & MENN stacks (currently learning)
+I’m **Mazz Ather** — a passionate **Full-Stack Next.js Developer** and **Agentic AI Developer** currently enrolled in the **Governor Sindh IT Initiative** as a **Certified Agentic AI & Robotics Developer** (in progress).  
 
-## 🌟 What I'm Working On
+With **multiple award-winning websites** to my name, I specialize in **modern web applications** and **autonomous AI agents** powered by the **OpenAI Agents SDK**. I thrive on combining **cutting-edge AI** with **creative web development** to craft intelligent, scalable solutions.
 
-I love crafting innovative projects that push the boundaries of web development. Here are a few areas I’m currently exploring:
+---
 
-- **Three.js & React Fiber:** Diving into 3D graphics and immersive experiences.
-- **Dynamic Web Applications:** Using modern tools to create engaging user interfaces.
+## 🛠️ Skills & Technologies
 
-## 📈 Stay Updated
+**🌐 Web Development**
+- HTML, CSS, JavaScript, TypeScript
+- React, Next.js (v14 & v15)
+- GSAP, ScrollTrigger, Framer Motion
+- MERN & MENN Stack (MongoDB, Express, React/Next.js, Node.js)
+- Three.js, React Three Fiber
 
-I regularly share my work and updates, so be sure to check back for exciting new projects! I hope to inspire others in the web development community with my creations. Feel free to reach out if you have any questions or want to collaborate!
+**🤖 AI & Agentic Development**
+- OpenAI Agents SDK (agent loop, tools, run config, sessions, exceptions)
+- ElevenLabs AI Voice Agents (inbound & outbound calling)
+- Gemini, OpenRouter, LiteLLM Integrations
+- Python AI Development & OOP
+- Autonomous workflows & business automation
 
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/maaz-ather-a8252b291/) to stay updated on my latest work and insights.
+**🔐 Security & Data Handling**
+- Fernet Encryption, Password Hashing (SHA-256, PBKDF2)
+- Secure Session Management
+- Brute-force protection systems
 
-Thanks for visiting my profile! Let's connect and build something amazing together!
+---
+
+## 📚 Current Learning Path
+
+🎓 **Governor Sindh IT Initiative**
+- ✅ Certified **Full-Stack Next.js Developer**
+- 🔄 Certified **Agentic AI & Robotics Developer** *(In Progress)*
+
+💡 **Focus Areas**
+- Autonomous AI agents with **OpenAI Agents SDK**
+- AI Voice Calling Agents with minimal third-party dependency
+- AI-driven customer service automation
+- Scalable hybrid apps merging **Next.js + AI**
+
+---
+
+## 🏆 Achievements & Projects
+
+- 🥇 **Multiple Award-Winning Websites** for innovation & design
+- 💻 Multiplayer **Python Tic-Tac-Toe** using sockets & threading
+- 🔒 Secure **Data Encryption App** in Streamlit
+- 🎮 **Space Invader Game** in Pygame
+- 📈 Ongoing **AI-Powered Customer Engagement** tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maazather&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazather&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazather&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maaz-ather-a8252b291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+</p>
+
+---
+
+> _"I’m not just building apps; I’m building the future — one intelligent agent at a time."_ 🚀
 
 ## 🌏 My Best Websites
 
