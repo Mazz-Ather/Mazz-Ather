@@ -115,8 +115,7 @@ Here are some of the best websites that I've created. Click on the images to vis
     <td style="padding: 10px;">
       <a href="">My Creative Personal Portfolio</a><br>
       <a href="https://mazz-personal-portfolio.vercel.app/">
-        <img src="https://github.com/user-attachments/assets/3ac260c8-26ef-4e5f-b1e1-c2cd2984345f" />
-" alt="my personal portfolio" width="300"/>
+        <img src="https://github.com/user-attachments/assets/3ac260c8-26ef-4e5f-b1e1-c2cd2984345f" alt="my personal portfolio" width="300"/>
       </a>
     </td>
     <td style="padding: 10px;">
