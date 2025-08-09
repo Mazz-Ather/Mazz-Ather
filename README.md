@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">🚀 Hey there, I'm <span style="color:#0A66C2;">Maaz Ather</span></h1>
+<h1 align="center">🚀 Hey there, I'm <span style="color:#0A66C2;">Mazz Ather</span></h1>
 <h3 align="center">Full-Stack Next.js Developer | Agentic AI Developer | Certified AI & Robotics Developer (In Progress)</h3>
 
 <!-- Badges with Fake Data -->
@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 
-I’m **Maaz Ather** — a passionate **Full-Stack Next.js Developer** and **Agentic AI Developer** currently mastering the **OpenAI Agents SDK** under the **Governor Sindh IT Initiative**.  
+I’m **Mazz Ather** — a passionate **Full-Stack Next.js Developer** and **Agentic AI Developer** currently mastering the **OpenAI Agents SDK** under the **Governor Sindh IT Initiative**.  
 
 🏆 **Multiple award-winning projects** in **Web Development** and **AI-powered applications**  
 🤖 Building **autonomous AI agents** for real-world automation  
@@ -67,7 +67,7 @@ I’m **Maaz Ather** — a passionate **Full-Stack Next.js Developer** and **Age
 
 ---
 
-## 📊 GitHub Stats (Styled & Fake Data)
+## 📊 GitHub Stats (Styled Data)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Commits-1.3k-brightgreen?style=for-the-badge" />
@@ -75,10 +75,6 @@ I’m **Maaz Ather** — a passionate **Full-Stack Next.js Developer** and **Age
   <img src="https://img.shields.io/badge/Repositories-28-blue?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maazather&show_icons=true&theme=tokyonight&custom_title=Maaz%20Ather%27s%20GitHub%20Stats&hide=issues,prs&count_private=true&include_all_commits=true&line_height=28&disable_animations=false&rank_icon=github&hide_rank=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maazather&theme=tokyonight&fire=F7B801&ring=F7B801&currStreakLabel=F7B801" width="48%" />
-</p>
 
 ---
 
