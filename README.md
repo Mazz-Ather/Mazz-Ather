@@ -484,6 +484,8 @@ Week 4: ████████████████████████
 🇺🇸 **USA** 32% • 🇵🇰 **Pakistan** 28% • 🇮🇳 **India** 15% • 🇬🇧 **UK** 12% • 🇨🇦 **Canada** 8% • 🇩🇪 **Germany** 5%
 
 </div>
+<img src="https://raw.githubusercontent.com/saqibtahir0201/saqibtahir0201/output/snake.svg" alt="Snake animation" />
+
 
 **Made with ❤️ and lots of ☕ by Mazz Ather**
 
