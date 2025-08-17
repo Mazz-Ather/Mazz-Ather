@@ -48,8 +48,7 @@
 └─ 👥 Team Collaboration: 97.8% (Excellent)
 ```
 
-</div># 
----
+</div>
 
 <div align="center">
 
@@ -488,7 +487,7 @@ Week 4: ████████████████████████
 
 **Made with ❤️ and lots of ☕ by Mazz Ather**
 
-[![Back to Top](https://img.shields.io/badge/Back_to_Top-000000?style=for-the-badge&logo=github&logoColor=white)](#-hey-there-im-mazz-ather)
+[![Back to Top](https://img.shields.io/badge/Back_to_Top-000000?style=for-the-badge&logo=github&logoColor=white)](Mazz-Ather)
 
 </div>
 
