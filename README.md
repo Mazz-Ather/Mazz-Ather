@@ -1,4 +1,4 @@
-<div align="center">🚀 **MAZZ ATHER** 🚀</div>
+# <div align="center">🚀 **MAZZ ATHER** 🚀</div>
 
 <div align="center">
   
