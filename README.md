@@ -1,3 +1,11 @@
+<div align="center">🚀 **MAZZ ATHER** 🚀</div>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Next.js+Developer;Agentic+AI+Developer;Building+Pakistan's+First+AI+Agency;Award-Winning+Web+Developer)](https://git.io/typing-svg)
+
+</div>
+
 ## <div align="center">🏆 **ELITE ACHIEVEMENTS & MILESTONES** 🏆</div>
 
 <div align="center">
@@ -40,14 +48,7 @@
 └─ 👥 Team Collaboration: 97.8% (Excellent)
 ```
 
-</div># <div align="center">🚀 **MAZZ ATHER** 🚀</div>
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full-Stack+Next.js+Developer;Agentic+AI+Developer;Building+Pakistan's+First+AI+Agency;Award-Winning+Web+Developer)](https://git.io/typing-svg)
-
-</div>
-
+</div># 
 ---
 
 <div align="center">
